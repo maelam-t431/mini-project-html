@@ -6,7 +6,7 @@ Members:
 - Mayuresh Nerurkar
 
 ## Link
-Public URL for the page is - maelam-t431.github.io/mini-project-html 
+Public URL for the page is - `maelam-t431.github.io/mini-project-html`
 
 ## Setup
 
